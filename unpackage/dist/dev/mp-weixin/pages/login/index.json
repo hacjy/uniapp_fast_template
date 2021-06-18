@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "登录",
+  "usingComponents": {
+    "u-input": "/uview-ui/components/u-input/u-input",
+    "u-verification-code": "/uview-ui/components/u-verification-code/u-verification-code",
+    "u-button": "/uview-ui/components/u-button/u-button",
+    "u-checkbox": "/uview-ui/components/u-checkbox/u-checkbox"
+  }
+}

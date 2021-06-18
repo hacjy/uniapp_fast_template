@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "下拉刷新上拉加载列表",
+  "usingComponents": {
+    "mescroll-body": "/uni_modules/mescroll-uni/components/mescroll-body/mescroll-body",
+    "good-list": "/components/good-list/good-list",
+    "u-tabbar": "/uview-ui/components/u-tabbar/u-tabbar"
+  }
+}
